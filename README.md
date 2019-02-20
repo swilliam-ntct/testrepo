@@ -3,3 +3,4 @@ deleted and recreated the tag.
 adding another commit.
 testing publish.sh
 fix logic
+Do not rsync newly created branch.
