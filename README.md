@@ -1,6 +1,8 @@
 ## Just a README, nothing in it
-deleted and recreated the tag.
-adding another commit.
-testing publish.sh
-fix logic
-Do not rsync newly created branch.
+deleted and recreated the tag.<br>
+adding another commit.<br>
+testing publish.sh<br>
+fix logic<br>
+Do not rsync newly created branch.<br>
+Release v1.1.<br>
+
