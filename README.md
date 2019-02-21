@@ -4,4 +4,5 @@ adding another commit.
 testing publish.sh
 fix logic
 Do not rsync newly created branch.<br>
-Release 2.0
+Release 2.0<br>
+Release v3.0<br>
